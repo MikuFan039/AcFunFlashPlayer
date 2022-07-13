@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <main>
+                <url>http://cdn.aixifan.com/player/sslhomura/AcFunV3Player161009.swf</url>
+                <version>new</version>
+        </main>
+        <configPanel>
+                <url>http://cdn.aixifan.com/player/sslhomura/MoreConfig141120.swf</url>
+                <version>new</version>
+        </configPanel>
+</root>
