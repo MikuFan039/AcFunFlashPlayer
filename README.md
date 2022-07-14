@@ -23,5 +23,8 @@ A站[acfun.cn]以前使用的flash播放器，缺少部分版本。
 ## filter-out
 播放器弹幕滤镜特效，高级弹幕相关。
 
-## config MoreConfig
+## config configPanel
 播放器配置文件及设置。
+
+## pub
+播放器使用的Flex类库。
