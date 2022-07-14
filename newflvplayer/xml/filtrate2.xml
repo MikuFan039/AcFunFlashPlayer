@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<information>
+<filtrate  name="普通关键字">
+<data>屏蔽词1</data>
+</filtrate>
+<filtrate name="超级关键字">
+<data>屏蔽词2</data>
+</filtrate>
+</information>
